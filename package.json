@@ -1,6 +1,6 @@
 {
   "name": "do-whiel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Does stuff whiel you don't",
   "main": "index.js",
   "scripts": {
