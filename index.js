@@ -3,3 +3,5 @@ const doWheil = (d0, wh1le) => {
     d0()
   } while(wh1le)
 }
+
+export default doWheil
