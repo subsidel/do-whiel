@@ -3,7 +3,7 @@ does stuff whiel you don't
 
 usin'
 ```
-doWhile(_=>console.log('I AM DOIN'), true)
+doWhiel(_=>console.log('I AM DOIN'), true)
 ```
 
 Params it takes:
