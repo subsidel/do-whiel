@@ -1,0 +1,31 @@
+{
+  "name": "do-whiel",
+  "version": "0.0.1",
+  "description": "Does stuff whiel you don't",
+  "main": "index.js",
+  "scripts": {
+    "test": " while :; do echo 'DOIN IT'; sleep 1; done"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subsidel/do-whiel.git"
+  },
+  "keywords": [
+    "do",
+    "while",
+    "whiel",
+    "d0",
+    "wh1le",
+    "do-wheil",
+    "loops",
+    "looping",
+    "loopy-loop",
+    "just keep doin'"
+  ],
+  "author": "Thomas Jedderson & Willis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subsidel/do-whiel/issues"
+  },
+  "homepage": "https://github.com/subsidel/do-whiel#readme"
+}
