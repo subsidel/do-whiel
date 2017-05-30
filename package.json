@@ -4,7 +4,7 @@
   "description": "Does stuff whiel you don't",
   "main": "index.js",
   "scripts": {
-    "test": " while :; do echo 'DOIN IT'; sleep 1; done"
+    "test": "mocha index-test.js"
   },
   "repository": {
     "type": "git",
@@ -27,5 +27,13 @@
   "bugs": {
     "url": "https://github.com/subsidel/do-whiel/issues"
   },
-  "homepage": "https://github.com/subsidel/do-whiel#readme"
+  "homepage": "https://github.com/subsidel/do-whiel#readme",
+  "dependencies": {
+    "is-boolean": "0.0.1",
+    "is-function": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "mocha": "^3.4.2"
+  }
 }
